@@ -4,7 +4,7 @@ package libreriasv8;
  * Esta clase es un producto
  */
 public class Consola implements InterfaceMetodosComunes {
-    //Adolfito El Grande es un nombre muy sus
+
     private String msg;
     //modificacion nuria
 
@@ -28,4 +28,5 @@ public class Consola implements InterfaceMetodosComunes {
         
         //Comentrio para clase
     }
+    //CHIMICHANGAS
 }
