@@ -24,3 +24,4 @@ public class Ventana implements InterfaceMetodosComunes {
         JOptionPane.showMessageDialog(null,"Sale por un ventana " + msg);
     }
 }
+//buenas tardes
