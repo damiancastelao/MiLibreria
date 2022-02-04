@@ -22,4 +22,5 @@ public class Consola implements InterfaceMetodosComunes {
     public void visualiza(){
         System.out.println("Sale por la consola " + msg);
     }
+//Buenos dias
 }
