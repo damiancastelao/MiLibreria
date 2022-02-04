@@ -10,4 +10,6 @@ public interface InterfaceMetodosComunes {
      * método que visualiza en distintos medios
      */
     void visualiza();
+
+    void visualiza2();
 }
