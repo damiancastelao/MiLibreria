@@ -25,3 +25,9 @@ public class Ventana implements InterfaceMetodosComunes {
     }
 }
 //buenas tardes
+
+//region hola
+
+//buenas tardes 
+
+//endregion
