@@ -24,4 +24,6 @@ public class Consola implements InterfaceMetodosComunes {
     }
 
     //Cambio en la clase Consola en la otra rama
+
+    //Cambio clase consola en la nueva rama
 }
