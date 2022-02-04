@@ -22,4 +22,8 @@ public class Consola implements InterfaceMetodosComunes {
     public void visualiza(){
         System.out.println("Sale por la consola " + msg);
     }
+
+    //Cambio en la clase Consola en la otra rama
+
+    //Cambio clase consola en la nueva rama
 }
