@@ -7,7 +7,7 @@ public class Consola implements InterfaceMetodosComunes {
 
     private String msg;
     //modificacion nuria
-
+    //mod yago
     /**
      * Constructor
      *
